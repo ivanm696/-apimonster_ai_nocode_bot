@@ -1,1 +1,1 @@
-https://t.me/apimonster_ai_nocode_bot
+@apimonster_ai_nocode_bot
